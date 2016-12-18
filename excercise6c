@@ -3,3 +3,6 @@ y=input("enter a short sentence:")
 
 setence=x+" "+y
 print(sentence)
+
+splitedSentence = sentence.split()
+print(splitedSentence)
