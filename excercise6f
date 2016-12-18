@@ -12,3 +12,6 @@ sortedSentence = sorted(splitedSentence)
 print(sortedSentence)
 
 print(len(sortedSentence))
+
+from collections import  Counter
+print(dict(Counter(splittedSentence)))
