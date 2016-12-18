@@ -10,3 +10,5 @@ print(splitedSentence)
 sortedSentence = sorted(splitedSentence)
 
 print(sortedSentence)
+
+print(len(sortedSentence))
