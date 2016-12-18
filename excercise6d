@@ -6,3 +6,7 @@ print(sentence)
 
 splitedSentence = sentence.split()
 print(splitedSentence)
+
+sortedSentence = sorted(splitedSentence)
+
+print(sortedSentence)
